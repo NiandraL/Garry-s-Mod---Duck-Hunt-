@@ -5,12 +5,10 @@ Another Fretta gamemode I've made for my Minigames server that I want to release
 What maps does this come with?
 ========================
 Okay, I'm not the best map-maker in the world. I'm really new to it, but I put together four basic maps together with the initial upload of this gamemode. I would like to make more, although I'm kinda lacking ideas for original traps/obstacles, that's why quite a few repeat. This comes with:
-[list]
-[*]dh_aroundtheblock_v1 [i](named by [Emp'G] Mr Teebu)[/i]
-[*]dh_gauntlet_v1 [i](named by [Emp'G] Biffi)[/i]
-[*]dh_nolookingback_v1 [i](named by Timmy Turner)[/i]
-[*]dh_runforyourlife_v1 [i](named by Will)[/i]
-[/list]
+*dh_aroundtheblock_v1
+*dh_gauntlet_v1 
+*dh_nolookingback_v1 
+*dh_runforyourlife_v1
 
 I found a bug or have suggestions!
 ========================
@@ -19,18 +17,18 @@ http://empyreangaming.co.uk/viewforum.php?f=56
 
 What's in the config file?
 ========================
-[list]
-[*]Which weapon Snipers should get (if you want to use a different swep/sniper to the one I've provided)
-[*]If you want players to get Pointshop points
-[*]How many Pointshop points runners should get for hitting the white patch
-[*]Runner's spawn protection time (just go with 1 or 0 if you don't want to use it)
-[*]If Snipers should receive Pointshop points for individual kills
-[/list]
+
+1. Which weapon Snipers should get (if you want to use a different swep/sniper to the one I've provided)
+2. If you want players to get Pointshop points
+3. How many Pointshop points runners should get for hitting the white patch
+4. Runner's spawn protection time (just go with 1 or 0 if you don't want to use it)
+5. If Snipers should receive Pointshop points for individual kills
+
 
 Credit
 ========================
-[list]
-[*]Thanks to Sgtpanda for helping me figure out something to do with Fretta
-[*]The default sniper comes from the [url=http://steamcommunity.com/sharedfiles/filedetails/?id=104479034]CSS Realistic Weapons pack, which I recommend you subscribe to[/url] but is not needed.
-[*]JetBoom for fixing up fretta to GMOD13 back when it came out. 
-[/list]
+
+*Thanks to Sgtpanda for helping me figure out something to do with Fretta
+*The default sniper comes from CSS Realistic Weapons pack
+*JetBoom for fixing up fretta to GMOD13 back when it came out
+
