@@ -1,0 +1,13 @@
+"svr"
+{
+	"base"				"fretta13"
+	"title"				"Duck Hunt"
+	"menusystem"		"1"
+	"maps"				"dh_"
+
+	"selectable"		"1"
+	"fretta_maps"
+	{
+		"1"	"dh_"
+	}
+}
